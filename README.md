@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning MOTEC M1 Tuning Software
 - 💞️ I’m looking to collaborate on Control System for Supercapacitors
 - 📫 How to reach me: sraghavendra@wisc.edu
+- YouTube! - https://www.youtube.com/channel/UCH9DFriixxXQDARPdg-NsiQ
 
 <!---
 sragh1181/sragh1181 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
